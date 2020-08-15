@@ -35,12 +35,10 @@
 
 THATS IT! Welcome to e-commerce on a decentralized platform! The UI is pretty bare bone. But, nonetheless, it demonstrates a full swing of capabilities from Supplier adding a product to market place -> Customer making a purchase -> Supplier Shipping the order -> Customer acknowledging the delivery! All of this on a BLOCKCHAIN! Pretty exciting! 
 
-# CREDITS
-[Junaid ALi - @junaidalibeswa]
+
 # LICENCE
 MIT License
 
-Copyright (c) 2019 Junaid Ali
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
