@@ -1,4 +1,3 @@
-=======
 # Chung Bae Team - Garuda Hackathon
 
 ## Our idea
