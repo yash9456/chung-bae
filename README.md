@@ -1,4 +1,6 @@
 # Chung Bae Team - Garuda Hackathon
+Project name: Helperhand
+Team members: Catherine, Sirani, Silla
 
 ## Our idea
 _Last summer, I was spending time at my village. My aunt asked me to visit the local markets for bringing out household appliances. That's exactly where this idea of connecting those local markets to customers came from. With this changing environment, I would like to add efforts in achieving the goals of sustainability and making the products affordable._
@@ -33,3 +35,7 @@ Every product, brand or whatsoever starts from an idea. Then it goes from protot
 
 We want to raise our standards and limits of the app not only in Indonesia but throughout the world.
 _Thankyou so much for such an exciting opportunity :)_
+
+## Links:
+Presentation: https://docs.google.com/presentation/d/1nRqctq-3_9ug-98y0_xuQGnBW59rfRgseAkdOyeTpJc/edit#slide=id.p
+Bubble app: https://helperhand.bubbleapps.io/version-test
